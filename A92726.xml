@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots declaration, against the toleration of sects and sectaries, and the liberty of conscience. Together with their protestation, to live and die for the maintenance of the Covenant, the performance of the late treaty, the preservation of his Majesty and posterity. Also his Majesties own speech at large, concerning the setling of religion, and the just liberties of that kingdom, and his not doubting of their reall affections for the maintenance of that royall power which he now enjoys after 108 discents.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92726</idno><idno type="EEBO-CITATION">99862389</idno>
+  <idno type="VID">114547</idno>
+  <idno type="EEBO-PROQUEST">2248530712</idno>
+  
+            <idno type="STC">Wing S2024A</idno>
+            <idno type="STC">Thomason E406_5</idno>
+            <idno type="STC">ESTC R201905</idno>
+            <idno type="PROQUEST">99862389</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862389e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114547)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E406[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots declaration, against the toleration of sects and sectaries, and the liberty of conscience. Together with their protestation, to live and die for the maintenance of the Covenant, the performance of the late treaty, the preservation of his Majesty and posterity. Also his Majesties own speech at large, concerning the setling of religion, and the just liberties of that kingdom, and his not doubting of their reall affections for the maintenance of that royall power which he now enjoys after 108 discents.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.B and are to be sold in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page numbering begins on t.p. verso.</note>
+                  <note>This edition includes the phrase "the performance of the late treaty" between "Covenant" and "the preservation" in the title; it also includes R.B.'s address in the imprint.</note>
+                  <note>Annotation on Thomason copy: "7ber 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Christian sects --  Early works to 1800.</term>
+               <term type="topical_term">Liberty of conscience --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114547:1"/>
+            <p>THE SCOTS DECLARATION, Against the Toleration of <hi>Sects</hi> and <hi>Sectaries,</hi> and the <hi>Liberty of Conscience.</hi>
+            </p>
+            <p>Together <hi>With their Protestation, to live and die</hi> for the maintenance of the <hi>Covenant,</hi> the performance of the late Treaty, the preser<g ref="char:EOLhyphen"/>vation of his <hi>Majesty</hi> and Posterity.</p>
+            <p>
+               <hi>Also his</hi> Majesties <hi>own speech at large,</hi> Concerning the setling of <hi>Religion,</hi> and the just <hi>Li<g ref="char:EOLhyphen"/>berties of that Kingdom,</hi> and his not doubting of their reall affections for the mainte<g ref="char:EOLhyphen"/>nance of that royall power which he now enjoys after 108 Discents.</p>
+            <p>
+               <hi>LONDON, Printed for</hi> R. B. and are to be sold in <hi>Pauls</hi> Church-yard, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114547:2"/>
+            <head>The <hi>SCOTS</hi> Declaration against Toleration of <hi>Sects</hi> and <hi>Sectaries,</hi> and the <hi>Libertie of Conscience.</hi>
+            </head>
+            <p>TO the end the world may take notice with what sorrow we resent the opposition of a great par<g ref="char:EOLhyphen"/>ty in <hi>England,</hi> that labour for Liberty and To<g ref="char:EOLhyphen"/>leration. And with what holy Confidence and Resolution wee have gone on in the work of God, for the advancement of the true Reformed Religion according to the best Reformed Churches, and what our en<g ref="char:EOLhyphen"/>deavours are (which by the grace of God wee will continue) to vindicate the purity of Religion in the true Worship of God, and (in relation thereunto) to mayntain his Majesties just Rights and Prerogatives, we have thought fit to publish this ensuing Declaration.</p>
+            <p>When the Government of Episcopacy was again introdu<g ref="char:EOLhyphen"/>ced into the Kingdom of <hi>Scotland,</hi> and much of the Glory of the <hi>Kirke</hi> thereby ecclipsed, so sickerly by the Government of the Prelates, the pure current of the Gospel was much stop<g ref="char:EOLunhyphen"/>ped, which used before to flow most plentifully in the great<g ref="char:EOLhyphen"/>est part of this Kingdom from the mouthes of many Reve<g ref="char:EOLhyphen"/>rend and Learned Divines, who then were silenced by the authority of the Bishops, and none suffered to teach the Word of God but such as onely were of the ceremonious, haughty, and superstitious faction, the Nobility, the Gen<g ref="char:EOLhyphen"/>try,
+<pb n="2" facs="tcp:114547:2"/>and the best of the Clergy and Comminalty, having all convened together, and setting before their eyes the great tyrannies, and insupportable burthens under which the Kirk and Kingdom did lye oppressed, by reason of the extortions and new found taxes, which the Bishops had brought in with them; they did all binde themselves in a solemne League and Covenant, in the presence of Almighty God, joyntly and particularly to settle the Truth of the Gospel in the Kirk of <hi>Scotland,</hi> according to the purest and best refor<g ref="char:EOLhyphen"/>med Churches in <hi>Christendom,</hi> as also to extirpate all Bishops, Arch-Bishops, Deans, Arch-Deacons, and all others depen<g ref="char:EOLhyphen"/>ding on that Hierarchy.</p>
+            <p>The worship of God in the first place being established, we Covenanted in the next, with our lives and fortunes, to maintain His Majesty and his Heirs with their just rights and prerogatives in any cause or causes whatsoever. This is the Covenant we have made, the Oath which we have taken, from which we declare that there is nothing in the world that shall make us to remove in the least particular.</p>
+            <p>It is well known with what successe it pleased Almighty God to crowne our endeavours, after we had unanimously entred into this Covenant, for not long after, having entred into the Kingdom of <hi>England,</hi> for the justifying of our Cause, the Papists and Bishops (who called the warre <hi>Bellum Epis<g ref="char:EOLhyphen"/>copale</hi>) having incensed His Majesty to proclaim us Traytors, &amp; to march down in his own person in the head of a puissant Army against us: It pleased the Lord of Hosts to grant us the victory, and to carry the day on our sides with a high hand, not long after the Town of <hi>Newcastle</hi> was by the pro<g ref="char:EOLhyphen"/>vidence and appointment of the Almighty delivered into our hands, And the Parliament in <hi>England beginning</hi> (to the cal<g ref="char:EOLhyphen"/>ling and the convening of which we were no small helps, how soever our actions be now represented) it pleased God
+<pb n="3" facs="tcp:114547:3"/>that the Incendiaries betwixt the two Kingdoms, and the <hi>Callioes</hi> of those times, were brought to condigne punish<g ref="char:EOLhyphen"/>ment, and we enjoyed our consciences according to the pre<g ref="char:EOLhyphen"/>cept of the Word: Episcopacie was abolished, and all signes of superstition was rooted from amongst us, His Majesty was graciously pleased to honor the Kingdom with his presence, and several of the Nobility and Gentry with titles of honor.</p>
+            <p>In the mean season the unhappy Wars beginning in the Kingdom of <hi>England,</hi> we were invited, we may say, impor<g ref="char:EOLhyphen"/>tuned, by severall Letters to their assistance, and at the same time (according to the manner and example of the Kingdom of <hi>Scotland,</hi> the Lords and Commons in the Parliament of <hi>England</hi> did settle upon the reformation and government of the Kirke of <hi>England,</hi> whereby Gods worship and service should be more purely performed then formerly it had been in that Kingdom, and the Discipline more piously admini<g ref="char:EOLhyphen"/>stred: And the Parliament not long after joyned in the same league and Covenant with us, solemnly protesting the refor<g ref="char:EOLhyphen"/>mation of Religion, with the extirpation of Popery, Prela<g ref="char:EOLhyphen"/>cie, and all belonging to that Hierarchy, as also the establish<g ref="char:EOLhyphen"/>ment of His Majesty, in his just rights and prerogatives: And truly we well hoped that after the Romish faction had beene rooted out, wee should have no new Heresies crept in to ob<g ref="char:EOLhyphen"/>struct the establishing of the Church in her full glory, and the setling of His Majesty and his posterity in their just rights and prerogatives, but that the purity of Religion should be preserved according to the Covenant that was taken, and the unity and amity of both Nations, by that so much increased, that in the whole Kingdom there should no where be found any room for Schisme or separation to enter in. And to this purpose we cannot but with much delight looke back upon the mutuall obligations and the interests of both Kingdoms, before the Parliament of <hi>England</hi> had joyned in the same
+<pb n="4" facs="tcp:114547:3"/>league and Covenant with us, and we conceive it not unfit in this place to repeat a part of the Declaration of the Lords and Commons in the Parliament of <hi>England,</hi> about the mid<g ref="char:EOLhyphen"/>dle of <hi>June,</hi> 1642.</p>
+            <p>
+               <hi>We do with much content and thankfulnesse observe the good affection and faithfulnesse of our Brethren of</hi> Scotland, <hi>to pre<g ref="char:EOLhyphen"/>serve the peace betwixt the two Nations. And wee shall never cease to answer this great love and care of theirs with the like earnestnesse and diligent endeavours to promote the honour, wealth and prosperity of that Nation, and to preserve that Union so strongly fortified by publike and mutuall interest and affection on both sides. And wee desire that our Commissioners may give notice to the</hi> Scots <hi>Commissioners, how heartily and joyfully we do embrace the kindnesse of that Kingdom, manifested in their Petition, and do order this Declaration forthwith to be printed, that so it may be published to the whole Kingdome of</hi> Scotland <hi>also, hoping that this constant and inviolable amity betwixt us will not onely conduce to the safety and honour of both Kingdoms, but prove very usefull for the advantage of the Protestant Reli<g ref="char:EOLhyphen"/>gion in other Countries.</hi>
+            </p>
+            <p>And indeed wee so highly weighed the advancement of Religion in the mutuall League of the two Kingdoms, that for the confirmation thereof, wee thought not our lives or dearest bloud to be a price great enough, but entred the King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> to assist the Parliament, who were at that time opposed by a powerfull Army in the North, and ano<g ref="char:EOLhyphen"/>ther in the West. It was no easie charge unto this Kingdom to raise an Army consisting of 20000 foot, and 5000 horse, and not long after to recruit with 5000 foot, &amp; a 1000 horse, and to set it forth with a trai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Artillery, which did cost this State 150000 pound, which was 50000 pound more then we received from the Kingdome of <hi>England,</hi> for the advance of our Army; howsoever with great forwardnesse
+<pb n="5" facs="tcp:114547:4"/>we passed all dangers, nor valued the depth of the snow, nor the difficulties of the Winters march, to purchase benefits to the Kingdom of <hi>England,</hi> and at the battaile at <hi>Marston Moor</hi> in the Summer following, wee had almost 2000 men slain in the field, besides many more that were sorely wounded. After this to relieve the City of <hi>London,</hi> and the Southerne parts with Fuell, wee thought not much to make a Winter Leaguer, and to sit down before <hi>Newcastle,</hi> which place al<g ref="char:EOLhyphen"/>though it was gotten by storm, yet to shew that our mindes were neither on rapine nor bloud, there was no man put to the sword but those onely that made resistance on the walls, nor any incivility used by the Souldiers in any way of plun<g ref="char:EOLhyphen"/>der which is more then was ever known in storming in the world before. After this we marched 200 miles further and lay before <hi>Hereford,</hi> and afterwards before <hi>Newarke,</hi> and for three yeares and about one moneths service we received but 300000 pound in pay, which we leave to judicious men to consider how short a summe it is for any Army consisting of 30000 men for above three yeares service.</p>
+            <p>Now forasmuch that malicious incendiaries since our de<g ref="char:EOLhyphen"/>parture from the Kingdome doe looke one our actions with indirect eyes, and doe strive to brand us with reproaches, and forasmuch we are informed that there is a party in England who endeavor to supplant the propogation of the Gospel in the purity of the Religion which wee professe by holding forth new Lights unto the people, and by pleading for a Toleration, and the Liberty of Conscience, the Nurse of all Heresies and Schismes, and by a dispensation to enfringe the power and Sacramentall obligator of the Covenant <hi>We doe declare and protest</hi> against all such practices and designes as unconsonant to the truth of Religion, and opening a doore to licentiousnesse and prophanesse, which to the uttermost of our power we will constantly endeavour to oppose. And
+<pb n="6" facs="tcp:114547:4"/>as we have all entred into one holy League and Covenant so to the last man in the Kingdom we wil hand in hand, and heart with heart, go on in the preservation of it, and to vindi<g ref="char:EOLhyphen"/>cate Religion, His Majesty, and our selves. And howsoever the Parliament of <hi>England</hi> shall determine in points of Tole<g ref="char:EOLhyphen"/>ration, and liberty of conscience, in which wee believe they will be well advised, yet we are unanimously resolved not to make the least start, from what we have professed, but to live and dye for the glory of God in the entire preservation of the Truth, for the lasting peace of the Kingdome, and for the Honour of his Majesty and his posterity.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>His <hi>Majesties</hi> Speech to the <hi>Parliament</hi> of <hi>Scotland, Aug.</hi> 19 1641, for the setling of Religion there, and for the just liberties of that Kingdom.</head>
+                        <opener>
+                           <salute>My Lords, and Gentlemen,</salute>
+                        </opener>
+                        <p>
+                           <hi>THere hath nothing bin so displeasing to me as those unluc<g ref="char:EOLhyphen"/>ky differences, which have hapned between me and my peo<g ref="char:EOLhyphen"/>ple, and nothing that I have more desired, then to see this day wherein I hope not onely to settle these unhappy mista<g ref="char:EOLhyphen"/>kings, but rightly to know and to be known of my native Country. I need not tell you (for I think it is well known to most) what difficult tyes I have passed through, and over come, to be here at this present: yet this will I say, if love to my native Country had not been a chief motive to this journey, other respects might ea<g ref="char:EOLhyphen"/>sily
+<pb n="7" facs="tcp:114547:5"/>have found a shift to do that by a Commission which I am come to performe my self, and (this considered) I cannot doubt such reall testimonies of your affections for the maintenance of that Royall power which I enjoy after 108 discents, and which you have so often professed to maintain, and to which your own Nationall Oath doth oblige you, that I shall not thinke any paines ill bestowed. Now the end of my comming is shortly this, to perfect whatsoever I have promised, and withall to quiet the distractions which have and may fall out amongst you; And this I mind not superficially but fully and cheerfully to performe: For I assure you that I can doe nothing with more cheerfulnesse then to give my people a generall satisfaction; wherefore not offering to en<g ref="char:EOLhyphen"/>deer my selfe unto you in words (which indeed is not my way) I desire in the first place to settle that which concernes the Reli<g ref="char:EOLhyphen"/>gion and just liberties of this my native Country before I proceed to any other Act.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
